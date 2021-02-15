@@ -1,0 +1,7 @@
+{
+  "Interface": {
+    "prefix": "ds-int",
+    "body": ["export interface $1Interface {", " id: number;", "};"],
+    "description": "this will create an interface"
+  }
+}
